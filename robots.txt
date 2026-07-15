@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 #DaumWebMasterTool:ba2bdc86b13581dcd8e5cf69872cd30f6c1a48e4d7db63cfd49fc68e801facdf:Th0L5+QWCCuxQG6+8IaGrw==
+#DaumWebMasterTool:2c93780459e9487db3b302692cdf316a613ba9209bd82a0fb184e8960e1fb76b:QM+TaEJ7Yp5O7wsVEQ8/lQ==
